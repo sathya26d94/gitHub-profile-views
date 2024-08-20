@@ -2,7 +2,7 @@
 **GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
 
-
+The project created and maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
 
 <table>
 	<tr>
@@ -26,7 +26,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/8/17 10:16 AM UTC
+			2024/8/18 10:16 AM UTC
 		</td>
 		<td>
 			0
@@ -37,7 +37,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/8/20 10:17 AM UTC</i></small>
+<small><i>Last updated on 2024/8/20 10:23 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
